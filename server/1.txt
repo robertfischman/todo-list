@@ -1,0 +1,4 @@
+Environment variables loaded from .env
+Prisma schema loaded from prisma\schema.prisma
+Datasource "db": MySQL database "todo" at "localhost:3306"
+
